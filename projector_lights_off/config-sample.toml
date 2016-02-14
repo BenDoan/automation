@@ -1,0 +1,8 @@
+light_url_on = "http://biglamp.lan/1on"
+light_url_off = "http://biglamp.lan/1off"
+
+chromecast_url = "http://chromecast.lan"
+
+state_file = "/tmp/project_light_state"
+
+log_level = "DEBUG"
